@@ -1,0 +1,28 @@
+name: Zimmerman Media
+favicon: null
+layout_spectrum: 0.28097378462553024
+typography_spectrum: 0.7935872576199472
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.30848702462390065
+  lightness: 0.2378237813245505
+  saturation: 0.042338876985013485
+  rhythmicContrast: 0.23712811758741736
+purpose: []
